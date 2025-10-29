@@ -1,0 +1,11 @@
+# Directorios de dependencias
+node_modules/
+
+# Archivos de logs
+*.log
+
+# Archivos del sistema operativo
+.DS_Store
+
+# Variables de entorno sensibles
+.env
